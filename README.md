@@ -27,3 +27,7 @@ I have expericed in the **software development industry** for quite a `number of
 - Agile software software development.
 
 - I'm good at project management and leading and contributing to a team 
+
+### Other technologies I use
+
+Will be added soon ...
