@@ -8,7 +8,7 @@ Hi there! I am passionate software developer with my `strenth` language `javascr
 
 [Linkedin](https://www.linkedin.com/in/md-reyad-hossain-3036ab194/)
 
-### Strenth Technologies
+### Strength Technologies
 
 `Node.js`, `React.js`, `MongoDB`, `Express.js`, `Socket.io`, `scss`.
 
