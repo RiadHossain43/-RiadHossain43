@@ -6,7 +6,7 @@ Hi there! I am passionate software developer with my `strenth` language `javascr
 
 ### Find me on
 
-[Linkin](https://www.linkedin.com/in/md-reyad-hossain-3036ab194/)
+[Linkedin](https://www.linkedin.com/in/md-reyad-hossain-3036ab194/)
 
 ### Strenth Technologies
 
